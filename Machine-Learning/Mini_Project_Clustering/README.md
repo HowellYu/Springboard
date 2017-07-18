@@ -1,4 +1,4 @@
-Practice several clustering method including: 
+Practice several clustering methods including: 
 1. The Elbow Sum-of-Squares Method
 2. The Silhouette Method
 3. (Visualizing Clusters using PCA)

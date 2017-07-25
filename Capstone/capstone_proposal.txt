@@ -1,0 +1,9 @@
+Capstone project
+1) What is the problem you want to solve?
+Filter out possible businesses that hire fake reviewers to increase their Yelp star rating and reputation.2) Who is your client and why do they care about this problem?
+My client is Yelp corporation. Today, both consumers and businesses have relied heavily on the ratings and comments on Yelp. On the one hand, consumers need information from Yelp so they will more likely enjoy a better service or product. On the other hand, local businesses need to maintain their ratings on Yelp to attract customers. However, the heavy dependency on Yelp gives rise to a new industry - fake reviewers, who give fake high ratings and positive comments to their employers. Thus, fake reviewers give their employers unfair competitive advantages, which jeopardize the purpose of Yelp - to share real information about local businesses. Consequently, it is crucial to find businesses that hire fake reviewers and maintain both customers and businesses’ faith in Yelp.3) What data are you going to use for this? How will you acquire this data?
+
+I am going to use the dataset from Yelp Dataset Challenge provided by Yelp.
+4) In brief, outline your approach to solving this problem
+1. Filter businesses that have sudden increases in star ratings and the number of comments.
+2. Use NLP to analysis the similarity between comments of different businesses.
